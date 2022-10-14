@@ -6,7 +6,8 @@
 - [Link](https://drive.google.com/drive/folders/1n-vSDtG5EyWvTZJcXUiNJhOnBDuPWzen?usp=sharing) for seminar recordings
 - [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the books and other related materials. 
 
-# Next Home Assignment deadline - 23 of October 23:55 HA2
+# Next Home Assignment deadline 
+23 of October 23:55 HA2
 
 ### Work in R
 
