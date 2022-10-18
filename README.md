@@ -7,7 +7,14 @@
 - [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the books and other related materials. 
 
 # Next Home Assignment deadline 
-23 of October 23:55 HA2
+23 of October 23:55 HA2 - to be submitted through Classroom
+
+How to set up a Class:
+1. Follow the invitation link for your 2nd homework (https://classroom.github.com/a/KgwWxt42).
+2. Log in to GitHub. You will be presented with a list of students.
+3. Find yourself on the list and follow the further instructions. A personal private repository will be automatically created for you. 
+Important: if you do not find yourself in the list of students, please DO NOT proceed with the ‘Can't find your name? Go to next step ->’. Instead, write to your class teacher or teaching assistant. We will add you to the list, after which you can continue with step 3. If you follow the link, then the repo can still be created, however, it will not be connected to the Classroom, which will lead to some inconveniences in the future. 
+If you’ve clicked on the link ‘Can't find your name? Go to the next step ->’ and only then saw this message: still write to your class teacher or teaching assistant about this. Connecting isolated cases is easier.
 
 ### Work in R
 
