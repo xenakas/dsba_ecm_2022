@@ -7,7 +7,7 @@
 - [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the books and other related materials. 
 
 # Next Home Assignment deadline 
-23 of October 23:55 HA2 - to be submitted through Classroom
+27 of Тщмуьиук 23:55 HA3 - to be submitted through Classroom
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA1 grades
 
 How to set up a Class:
