@@ -6,6 +6,8 @@
 - [Link](https://drive.google.com/drive/folders/1n-vSDtG5EyWvTZJcXUiNJhOnBDuPWzen?usp=sharing) for seminar recordings
 - [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the books and other related materials. 
 
+The results of the midterm exam (1st of November) are published in the corresponding folder. The last column EXAM% is the final grade.
+
 # Next Home Assignment deadline 
 27 of November 23:55 HA3 - to be submitted through Classroom
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA1 grades
