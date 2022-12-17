@@ -9,7 +9,7 @@
 The results of the midterm exam (1st of November) are published in the corresponding folder. The last column EXAM% is the final grade.
 
 # Next Home Assignment deadline 
-13 of December 23:55 HA4 - to be submitted through Classroom
+28 of December 23:55 HA5-6 - to be submitted through Classroom
 
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA grades
 - If you have questions conserning the HA grading, put them [here](https://docs.google.com/spreadsheets/d/14xR9zwdBNrWQIhd8VsWdqHHgeca8l-2DxU6U3xYolsI/edit?usp=sharing) within 3 days after grades publication
