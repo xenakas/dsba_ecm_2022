@@ -9,14 +9,14 @@
 The results of the midterm exam (1st of November) are published in the corresponding folder. The last column EXAM% is the final grade.
 
 # Next Home Assignment deadline is in January!
-13 of January 23:55 HA5-6 - to be submitted through Classroom
+14 of January 23:55 HA5-6 - to be submitted through Classroom
 
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA grades
 - If you have questions conserning the HA grading, put them [here](https://docs.google.com/spreadsheets/d/14xR9zwdBNrWQIhd8VsWdqHHgeca8l-2DxU6U3xYolsI/edit?usp=sharing) within 3 days after grades publication
 - Grades for HA5-6 will not be accounted for the Grade in 1st in Semester, however will be accounted for the final grade of the course as other home assignments.
 
 How to set up a Class:
-1. Follow the invitation link for your 3rd homework (https://classroom.github.com/a/3kfQF7nm).
+1. Follow the invitation link for your  homework (https://classroom.github.com/a/3kfQF7nm).
 2. Log in to GitHub. You will be presented with a list of students.
 3. Find yourself on the list and follow the further instructions. A personal private repository will be automatically created for you. 
 Important: if you do not find yourself in the list of students, please DO NOT proceed with the ‘Can't find your name? Go to next step ->’. Instead, write to your class teacher or teaching assistant. We will add you to the list, after which you can continue with step 3. If you follow the link, then the repo can still be created, however, it will not be connected to the Classroom, which will lead to some inconveniences in the future. 
