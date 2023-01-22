@@ -2,7 +2,7 @@
 # Elements of econometrics 2022-2023
 
 - [Link](https://docs.google.com/spreadsheets/d/1LdnH9k2JQQsZiOPKq81teOcPpWv7leic_rOfvbJ2nC0/edit?usp=sharing) for the **Spreadsheet with Activity records** for 202, 203, 204 groups.
-- [Link](https://docs.google.com/spreadsheets/d/1Tcfl2dimm_P30hWNd7iE4lEto8_Jh_vD/edit?usp=sharing&ouid=100687387438832176341&rtpof=true&sd=true) for the **Spreadsheet with Activity records** for group 201. 
+- [Link](https://docs.google.com/spreadsheets/d/1Tcfl2dimm_P30hWNd7iE4lEto8_Jh_vD/edit?usp=sharing&ouid=100687387438832176341&rtpof=true&sd=true) for the **Spreadsheet with Activity records** for group 201. From January solutions of bonus problems should be sent to Anastasia asivanova_11@edu.hse.ru.
 - [Link](https://drive.google.com/drive/folders/1n-vSDtG5EyWvTZJcXUiNJhOnBDuPWzen?usp=sharing) for seminar recordings
 - [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the books and other related materials. 
 
@@ -12,7 +12,7 @@ The results of the midterm exam (1st of November) are published in the correspon
 30 of January 23:55 HA7 - to be submitted through Classroom
 
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA grades
-- If you have questions conserning the HA grading, put them [here](https://docs.google.com/spreadsheets/d/14xR9zwdBNrWQIhd8VsWdqHHgeca8l-2DxU6U3xYolsI/edit?usp=sharing) within 3 days after grades publication
+- If you have questions conserning the HA grading, you can adress them to @ellenkim22 within 5 days after grades publication.
 - Grades for HA5-6 will not be accounted for the Grade in 1st in Semester, however will be accounted for the final grade of the course as other home assignments.
 
 How to set up a Class:
