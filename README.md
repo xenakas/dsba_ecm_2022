@@ -34,3 +34,7 @@ If you’ve clicked on the link ‘Can't find your name? Go to the next step ->�
 - [Google Colab](https://colab.research.google.com/notebook#create=true&language=r) with R  
 
 - [R kernel for Jupyter](https://github.com/IRkernel/IRkernel)
+
+### Final Retake rules
+The final retake is consisted of the written problems to be solved on paper. The solutions are graded by 3 comission memebers. The final mark will not account for the performance during the semester.
+
