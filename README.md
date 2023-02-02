@@ -36,5 +36,5 @@ If you’ve clicked on the link ‘Can't find your name? Go to the next step ->�
 - [R kernel for Jupyter](https://github.com/IRkernel/IRkernel)
 
 ### Final Retake rules
-The final retake is consisted of the written problems to be solved on paper. The solutions are graded by 3 comission memebers. The final mark will not account for the performance during the semester.
+The final retake is consisted of the written problems to be solved on paper. The solutions are graded by 3 comission members. The final mark will not account for the performance during the semester.
 
