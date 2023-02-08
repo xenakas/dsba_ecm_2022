@@ -8,8 +8,8 @@
 
 The results of the midterm exam (1st of November) are published in the corresponding folder. The last column EXAM% is the final grade.
 
-# Next Home Assignment deadline is on January, 30
-30 of January 23:55 HA7 - to be submitted through Classroom
+# Next Home Assignment deadline is on February, 18
+18 of February 23:55 HA8 - to be submitted through Classroom
 
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA grades
 - If you have questions conserning the HA grading, you can adress them to @ellenkim22 within 5 days after grades publication.
