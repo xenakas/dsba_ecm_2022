@@ -8,8 +8,14 @@
 
 The results of the midterm exam (1st of November) are published in the corresponding folder. The last column EXAM% is the final grade.
 
-# Next Home Assignment deadline is on February, 18
-18 of February 23:55 HA8 - to be submitted through Classroom
+# Next Home Assignment deadline is  Feb 22, 2023, 23:55 MST
+ Feb 22, 2023, 23:55 MST HA8 - to be submitted through Classroom
+ 
+ Requirements for HA:
+ -  Use scan options, check the quality of the file before sending.
+ -  The first page should be titled like this "Vadim Ivanov, gr. 201, HA08, data07, Python".
+ -  Please always provide your HA in pdf. Even if you write in Python notebook,  make a pdf out of it so that even non-Python user could read it. 
+
 
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA grades
 - If you have questions conserning the HA grading, you can adress them to @ellenkim22 within 5 days after grades publication.
