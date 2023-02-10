@@ -17,7 +17,7 @@ The results of the midterm exam (1st of November) are published in the correspon
  -  Please always provide your HA in pdf. Even if you write in Python notebook,  make a pdf out of it so that even non-Python user could read it. 
 
 
-//
+Where to find the grades:
 - [Link](https://docs.google.com/spreadsheets/d/1phl2k08wvJvh8TJSxcBRnmnrYJCVC39ZPWGrq4wcztw/edit?usp=sharing) for the HA grades
 - If you have questions conserning the HA grading, you can adress them to @ellenkim22 within 5 days after grades publication.
 - Grades for HA5-6 will not be accounted for the Grade in 1st in Semester, however will be accounted for the final grade of the course as other home assignments.
