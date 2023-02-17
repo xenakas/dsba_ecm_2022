@@ -8,8 +8,9 @@
 
 The results of the midterm exam (1st of November) are published in the corresponding folder. The last column EXAM% is the final grade.
 
-# Next Home Assignment deadline is  Feb 22, 2023, 23:55 MST
+# Next Home Assignment deadline is  Feb 22, 2023, 23:55 MSK
  Feb 22, 2023, 23:55 MSK HA8 - to be submitted through Classroom
+ March 05, 2023, 23:55 HA9 - to be submitted through Classroom
  
  Requirements for HA:
  -  Use scan options, check the quality of the file before sending.
