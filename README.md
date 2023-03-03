@@ -10,6 +10,7 @@ The results of the midterm exam (1st of November) are published in the correspon
 
 # Next Home Assignment deadline is  March 05, 2023, 23:55 MSK
  March 05, 2023, 23:55 HA9 - to be submitted through Classroom
+ 
  March 19, 2023, 23:55 HA10 - to be submitted through Classroom
   
  Requirements for HA:
